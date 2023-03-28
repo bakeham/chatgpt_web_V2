@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       // avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      avatar: 'https://img2.baidu.com/it/u=1885222319,1935280267&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500',
+      avatar: 'https://inews.gtimg.com/newsapp_bt/0/14150070855/1000',
       name: 'catNamedDog',
       description: 'Base on <a href="https://platform.openai.com/" class="text-blue-500" target="_blank" >OpenAI</a>',
     },
